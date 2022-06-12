@@ -18,3 +18,5 @@ how many you will get
 And a lot of other features!
 
 Update comming soon (working on it)
+
+1.7.3 Update: Fixed alot of bug like not opening ah when clicking.
